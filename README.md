@@ -4,7 +4,10 @@ Sales & Profit Analysis Dashboard (Excel – Pivot Tables, Charts, Slicers)
 This project delivers an interactive Sales & Profit Dashboard built entirely in Microsoft Excel, using Pivot Tables, Power Query, Slicers, and Pivot Charts.
 It provides a complete analytical view of store performance — tracking orders, revenue, product categories, gender, states, cities, sales channels, and size distribution.
 
-📊 Dashboard Preview(dashboard1.png)
+📊 Dashboard Preview
+## 📊 Dashboard Preview
+![Sales Dashboard](https://raw.githubusercontent.com/biplov6424/Store-data-analysis/main/dashboard1.png)
+
 
 🔄 Workflow Steps
 
