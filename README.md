@@ -1,28 +1,47 @@
 # Store-data-analysis
-This project delivers a complete Sales & Profit Dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, and Power Query.
-The dashboard provides a fast, visual breakdown of orders, revenue, categories, states, cities, channels, gender, and product sizes.
+Sales & Profit Analysis Dashboard (Excel – Pivot Tables, Charts, Slicers)
 
-The goal: turn raw Excel data into actionable business insights.
-🔥 Key Features
+This project delivers an interactive Sales & Profit Dashboard built entirely in Microsoft Excel, using Pivot Tables, Power Query, Slicers, and Pivot Charts.
+It provides a complete analytical view of store performance — tracking orders, revenue, product categories, gender, states, cities, sales channels, and size distribution.
 
-Interactive dashboard with Category, Gender, and Month slicers
+📊 Dashboard Preview
 
-KPI tracking for Orders, Amount, Quantity, Channels, and Categories
+🔄 Workflow Steps
 
-Visual analysis by:
+Data Cleaning & Standardization
+Fixed inconsistent values, removed blanks, corrected data types, and prepared the dataset for analysis.
 
-State
+Integration with Power Query
+Used Power Query to import and structure raw data, ensuring clean refreshable inputs.
 
-City
+Pivot Table Modeling
+Created separate pivot tables for:
 
-Category
+Sales by Category
 
-Sales Channel
+Orders by State & City
 
-Product Size
+Quantity by Size
 
-Gender
+Gender-wise Orders
 
-Combination of bar charts, line charts, and pie charts for clear interpretation
+Channel Contribution
 
-Clean, single-page layout optimized for decision-making
+Month-wise Trends
+
+Dashboard Assembly in Excel
+Combined pivot charts, slicers, KPIs, and category filters into a single interactive dashboard.
+
+📈 Key Insights
+
+Clear comparison of state-wise and city-wise performance
+
+Visual breakdown of category and channel contribution
+
+Gender-based order distribution
+
+Month-wise sales activity
+
+Size distribution patterns
+
+High-level KPIs: Orders, Amount, Quantitytimized for decision-making
